@@ -67,7 +67,7 @@ crewai install
 
 ### Customizing
 
-**Add your `OPENAI_API_KEY` into the `.env` file**
+**Add your `GEMINI_API_KEY` and `SERPER_API_KEY` into the `.env` file**
 
 ## How to Use
 
