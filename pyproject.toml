@@ -1,0 +1,20 @@
+[project]
+name = "crewai_sales_campaign_custom_tools"
+version = "0.1.0"
+description = "crewai-sales-campaign-custom-tools using crewAI"
+authors = [{ name = "Vinod Pillai", email = "vinodthebest@gmail.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.76.9,<1.0.0"
+]
+
+[project.scripts]
+crewai_sales_campaign_custom_tools = "crewai_sales_campaign_custom_tools.main:run"
+run_crew = "crewai_sales_campaign_custom_tools.main:run"
+train = "crewai_sales_campaign_custom_tools.main:train"
+replay = "crewai_sales_campaign_custom_tools.main:replay"
+test = "crewai_sales_campaign_custom_tools.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
