@@ -2,7 +2,7 @@
 
 This is a Sales Campaign Customer Agentic automation application developed using the **CrewAI** framework. It is designed to assist sales teams in automating and enhancing customer engagement through intelligent lead profiling and personalized outreach strategies. The application leverages multiple tools for data analysis and communication, providing sales representatives with comprehensive insights and tailored communication drafts.
 
-![](https://github.com/vinodvpillai/crewai_report_generation_app/blob/master/resources/output.gif)
+![](https://github.com/vinodvpillai/crewai_sales_campaign_custom_tools/blob/master/resources/output.gif)
 ## Project Structure
 
 The repository consists of the following key files:
